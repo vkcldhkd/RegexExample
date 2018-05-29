@@ -14,6 +14,9 @@ enum RegexType : String{
     case phone
 }
 
+
+
+
 class DetailViewController: BaseViewController {
 
     @IBOutlet weak var inputTextField: UITextField!
