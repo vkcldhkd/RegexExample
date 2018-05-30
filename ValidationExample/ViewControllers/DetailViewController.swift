@@ -2,7 +2,7 @@
 //  DetailViewController.swift
 //  ValidationExample
 //
-//  Created by BV on 2018. 5. 29..
+//  Created by Sung9 on 2018. 5. 29..
 //  Copyright © 2018년 Sung9. All rights reserved.
 //
 
