@@ -10,10 +10,10 @@ PODS:
   - RxSwift (4.1.2)
 
 DEPENDENCIES:
-  - GestureRecognizerClosures
-  - RxCocoa
+  - GestureRecognizerClosures (~> 4)
+  - RxCocoa (~> 4.0)
   - RxDataSources
-  - RxSwift
+  - RxSwift (~> 4.0)
 
 SPEC REPOS:
   https://github.com/CocoaPods/Specs.git:
@@ -30,6 +30,6 @@ SPEC CHECKSUMS:
   RxDataSources: cb7c31e652a87ebb919da45f716bbb87b3765f6b
   RxSwift: e49536837d9901277638493ea537394d4b55f570
 
-PODFILE CHECKSUM: f08e688f97f178618451d4283088c7505b9eb736
+PODFILE CHECKSUM: 022860db6d3b529e56f18a2085e5451050645e7f
 
 COCOAPODS: 1.5.0
